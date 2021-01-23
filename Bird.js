@@ -4,9 +4,9 @@ class Bird extends BaseClass {
     this.image = loadImage("stone.png");
   }
 
-  display() {
+  //display() {
   //  this.body.position.x = mouseX;
    // this.body.position.y = mouseY;
-    super.display();
-  }
+    //super.display();
+  //}
 }
